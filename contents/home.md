@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Yking233](https://img.shields.io/badge/Yking233-github-blue?logo=github)](https://github.com/Yking233)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Bachelor's Degree in Intelligent Transportation, at the School of Transportation and Logistics Engineering, Shandong Jiaotong University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+2990372366@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Intelligent Transportation, Shandong Jiaotong University, 2024—2027((expected)).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning,Intelligent Transportation.
 

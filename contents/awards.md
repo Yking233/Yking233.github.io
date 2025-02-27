@@ -1,6 +1,6 @@
-- National Scholarship of Graduate Student, 2024.
+- 2023 CSP-JS Second Prize of Shandong Province.
 
-- First-prize Scholarship of CUMT, 2024.
+<!-- - First-prize Scholarship of CUMT, 2024.
 
 - First-prize Scholarship of CUMT, 2023.
 
@@ -10,4 +10,4 @@
 
 - First-prize Enterprise Scholarship of CUMT, 2020.
 
-- First-prize Scholarship of CUMT, 2019.
+- First-prize Scholarship of CUMT, 2019. -->
